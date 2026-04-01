@@ -109,15 +109,12 @@ During the design process, several challenges were encountered:
 Designing an interface that provides real-time feedback without complexity 
 Understanding how to apply iteration in a small-scale academic project 
 
-Confusion (if any)
-
+Confusion 
 During the implementation of the design phase, some confusion was experienced:
-
 Differentiating between analysis and design phases, as both involve thinking about user tasks
 Deciding the level of detail required for UI sketches vs actual implementation
 Understanding how deeply iteration should be applied in a prototype-level project
-
 However, these confusions were resolved by revisiting Chapter 5 concepts, particularly the distinction between problem understanding (analysis) and solution creation (design).
 
 
-Challanges and confusions (all)
+
