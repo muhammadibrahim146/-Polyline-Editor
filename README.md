@@ -99,9 +99,25 @@ We followed a user-centered iterative design approach:
 3. Feedback Design: Every action produces immediate visual feedback — color-coded mode buttons, vertex glow on hover (red=delete, yellow=move, teal=insert), ghost preview lines, and toast notifications. This satisfies Nielsen's heuristic of visibility of system status.
 4. Error Prevention: Auto-removal of polylines with < 2 points, max 100 polyline limit with user notification, and confirmation dialog on Quit.
 5. Shortcuts & Efficiency: Single-key shortcuts (B/M/D/I/Z/R/ESC/Q) for expert users alongside clickable buttons for novices — supporting both *recognition and recall*.
-6. Iterative Refinement: Moved from dark theme → light MS Paint theme based on feedback, adjusting layout, color tokens, and typography for professional appearance.
+6. Iterative Refinement: Moved from dark theme → light MS Paint theme based on feedback, adjusting layout, color tokens, and typography for professional appearance
 
+ Challenges Faced
+During the design process, several challenges were encountered:
+Translating theoretical HCI principles into a practical interface design 
+Ensuring simplicity while still supporting all required functionalities 
+Maintaining consistency across different user interactions (mouse + keyboard) 
+Designing an interface that provides real-time feedback without complexity 
+Understanding how to apply iteration in a small-scale academic project 
 
-Requirements Gathered (for @144289526984779 )
+Confusion (if any)
+
+During the implementation of the design phase, some confusion was experienced:
+
+Differentiating between analysis and design phases, as both involve thinking about user tasks
+Deciding the level of detail required for UI sketches vs actual implementation
+Understanding how deeply iteration should be applied in a prototype-level project
+
+However, these confusions were resolved by revisiting Chapter 5 concepts, particularly the distinction between problem understanding (analysis) and solution creation (design).
+
 
 Challanges and confusions (all)
