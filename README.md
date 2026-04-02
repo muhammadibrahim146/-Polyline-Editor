@@ -10,21 +10,20 @@ During the design process, concepts from **Chapter 5 of the HCI textbook** were 
 **Name:** Muhammad Ibrahim  
 **Seat No:** B23110006103
 
----
-(all)
+
 # Team Members
 
 | Name | Seat No | Phase | Repo Link |
 |-----|-----|-----|-----|
-| Shaheer Ahmed | B23110006154 | Implementation and Deployment | *(Add repo link)* |
-| Muhammad Ibrahim | B23110006103 | Design Phase | Repo |
-| M Bilal Atif Usmani | B23110006057 |Analysis Phase | Repo |
-| Muhammad Mujtaba | B23110006107 | Requirement Phase | Repo |
+| Shaheer Ahmed | B23110006154 | Implementation and Deployment |https://github.com/shaheerahmedcoder/HCI-Polyline-Editor-3d-|
+| Muhammad Ibrahim | B23110006103 | Design Phase | https://github.com/muhammadibrahim146/-Polyline-Editor |
+| M Bilal Atif Usmani | B23110006057 |Analysis Phase |https://github.com/m-bilal-atif227584/HCI-Lab-PolylineEditor |
+| Muhammad Mujtaba | B23110006107 | Requirement Phase |https://github.com/Mujtaba214/HCI-3D-Polyline-Editor-Lab/|
 
-(all)
-My contribution
+
+##My contribution
 Contribution: Implemented HCI design principles (Chapter 5) in Polyline Editor, focusing on usability, UI flow, and user interaction.
-(all)
+
 # 2. System Functionality
 ## Keyboard Controls
 
@@ -92,7 +91,8 @@ The final system integrates all the required interaction features and also inclu
 - Adding a **3D viewing experience using Three.js** for visualizing polylines in a layered 3D scene
 
  
- Design Process for the Interactive Polyline Editor
+ ##Design Process for the Interactive Polyline Editor
+ 
 We followed a user-centered iterative design approach:
 1. Requirements Analysis: Identified four core interaction modes (Draw, Move, Delete, Insert) from the course specification, each requiring distinct visual feedback and cursor behavior.
 2. Metaphor Selection: Adopted an MS Paint-inspired ribbon toolbar metaphor — familiar to users, reducing learning curve (HCI principle: leverage existing mental models).
@@ -101,7 +101,8 @@ We followed a user-centered iterative design approach:
 5. Shortcuts & Efficiency: Single-key shortcuts (B/M/D/I/Z/R/ESC/Q) for expert users alongside clickable buttons for novices — supporting both *recognition and recall*.
 6. Iterative Refinement: Moved from dark theme → light MS Paint theme based on feedback, adjusting layout, color tokens, and typography for professional appearance
 
- Challenges Faced
+ ##Challenges Faced
+ 
 During the design process, several challenges were encountered:
 Translating theoretical HCI principles into a practical interface design 
 Ensuring simplicity while still supporting all required functionalities 
@@ -109,12 +110,20 @@ During the design process, several challenges were encountered:
 Designing an interface that provides real-time feedback without complexity 
 Understanding how to apply iteration in a small-scale academic project 
 
-Confusion 
+##Confusion 
+
 During the implementation of the design phase, some confusion was experienced:
 Differentiating between analysis and design phases, as both involve thinking about user tasks
 Deciding the level of detail required for UI sketches vs actual implementation
 Understanding how deeply iteration should be applied in a prototype-level project
 However, these confusions were resolved by revisiting Chapter 5 concepts, particularly the distinction between problem understanding (analysis) and solution creation (design).
+
+#Deployment Link:
+https://hcimidlab154.vercel.app/
+
+
+
+
 
 
 
