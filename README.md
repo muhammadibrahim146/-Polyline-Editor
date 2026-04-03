@@ -101,17 +101,16 @@ We followed a user-centered iterative design approach:
 5. Shortcuts & Efficiency: Single-key shortcuts (B/M/D/I/Z/R/ESC/Q) for expert users alongside clickable buttons for novices — supporting both *recognition and recall*.
 6. Iterative Refinement: Moved from dark theme → light MS Paint theme based on feedback, adjusting layout, color tokens, and typography for professional appearance
 
- ##Challenges Faced
- 
+ Challenges Faced
 During the design process, several challenges were encountered:
 Translating theoretical HCI principles into a practical interface design 
 Ensuring simplicity while still supporting all required functionalities 
 Maintaining consistency across different user interactions (mouse + keyboard) 
 Designing an interface that provides real-time feedback without complexity 
-Understanding how to apply iteration in a small-scale academic project 
+Understanding how to apply iteration in a small-scale academic project
 
-##Confusion 
 
+Confusion Faced
 During the implementation of the design phase, some confusion was experienced:
 Differentiating between analysis and design phases, as both involve thinking about user tasks
 Deciding the level of detail required for UI sketches vs actual implementation
