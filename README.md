@@ -9,7 +9,8 @@ During the design process, concepts from **Chapter 5 of the HCI textbook** were 
 
 **Name:** Muhammad Ibrahim  
 **Seat No:** B23110006103
-
+## Deployment Link:
+https://hcimidlab154.vercel.app/
 
 # Team Members
 
@@ -119,8 +120,7 @@ Deciding the level of detail required for UI sketches vs actual implementation
 Understanding how deeply iteration should be applied in a prototype-level project
 However, these confusions were resolved by revisiting Chapter 5 concepts, particularly the distinction between problem understanding (analysis) and solution creation (design).
 
-#Deployment Link:
-https://hcimidlab154.vercel.app/
+
 
 
 
