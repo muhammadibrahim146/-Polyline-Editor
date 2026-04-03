@@ -25,7 +25,7 @@ https://hcimidlab154.vercel.app/
 ##My contribution
 Contribution: Implemented HCI design principles (Chapter 5) in Polyline Editor, focusing on usability, UI flow, and user interaction.
 
-# 2. System Functionality
+# . System Functionality
 ## Keyboard Controls
 
 | Key | Action | Description |
@@ -39,7 +39,7 @@ Contribution: Implemented HCI design principles (Chapter 5) in Polyline Editor, 
 | ESC | End | End current polyline drawing |
 | Q | Quit | Clear the canvas and end the session |
 
-# 3. Additional Functions Added Beyond Basic Requirements
+# . Additional Functions Added Beyond Basic Requirements
 
 | Function | Implementation |
 |--------|--------|
@@ -50,7 +50,7 @@ Contribution: Implemented HCI design principles (Chapter 5) in Polyline Editor, 
 | Color & Stroke Width | Users can select polyline color and thickness in real time. |
 
 
-# 9. Interactive Process
+# . Interactive Process
 
 The development followed the **HCI Interaction Design Lifecycle**:
 
