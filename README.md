@@ -91,7 +91,7 @@ The final system integrates all the required interaction features and also inclu
 - Adding a **3D viewing experience using Three.js** for visualizing polylines in a layered 3D scene
 
  
- ##Design Process for the Interactive Polyline Editor
+ ## Design Process for the Interactive Polyline Editor
  
 We followed a user-centered iterative design approach:
 1. Requirements Analysis: Identified four core interaction modes (Draw, Move, Delete, Insert) from the course specification, each requiring distinct visual feedback and cursor behavior.
