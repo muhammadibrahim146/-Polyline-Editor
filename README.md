@@ -1,10 +1,6 @@
-# -Polyline-Editor
-
 # Polyline Editor with 3d view (HCI LAB MOCK MID)
 This project was developed as part of the **Human-Computer Interaction (HCI) Mid Lab**.  
 During the design process, concepts from **Chapter 5 of the HCI textbook** were studied and applied to guide the interaction design and usability considerations of the system.  
-
-
 ### Phase 3: Design Phase
 
 **Name:** Muhammad Ibrahim  
@@ -22,15 +18,15 @@ https://hcimidlab154.vercel.app/
 | Muhammad Mujtaba | B23110006107 | Requirement Phase |https://github.com/Mujtaba214/HCI-3D-Polyline-Editor-Lab/|
 
 
-##My contribution
+# My contribution
 Contribution: Implemented HCI design principles (Chapter 5) in Polyline Editor, focusing on usability, UI flow, and user interaction.
 
-# . System Functionality
+#  System Functionality
 ## Keyboard Controls
 
 | Key | Action | Description |
 |-----|--------|-------------|
-| B / N | Begin | Start creating a new polyline |
+| B  | Begin | Start creating a new polyline |
 | D | Delete | Remove the closest vertex |
 | M | Move | Pick a vertex and place it at a new location |
 | I | Insert | Insert a new point on the nearest segment |
@@ -39,7 +35,7 @@ Contribution: Implemented HCI design principles (Chapter 5) in Polyline Editor, 
 | ESC | End | End current polyline drawing |
 | Q | Quit | Clear the canvas and end the session |
 
-# . Additional Functions Added Beyond Basic Requirements
+# Additional Functions Added Beyond Basic Requirements
 
 | Function | Implementation |
 |--------|--------|
@@ -50,7 +46,7 @@ Contribution: Implemented HCI design principles (Chapter 5) in Polyline Editor, 
 | Color & Stroke Width | Users can select polyline color and thickness in real time. |
 
 
-# . Interactive Process
+#  Interactive Process
 
 The development followed the **HCI Interaction Design Lifecycle**:
 
