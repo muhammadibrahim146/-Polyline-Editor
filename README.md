@@ -73,6 +73,10 @@ Several **HCI principles** were applied in the design, including:
 - Immediate visual feedback
 - Consistent keyboard shortcuts
 - Error prevention
+  
+<img width="1024" height="1536" alt="polyine Editor design practice (1)" src="https://github.com/user-attachments/assets/cc276145-f613-4f74-91bd-24376c0b2f62" />
+
+   
 
 ---
 
